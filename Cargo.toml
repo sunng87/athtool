@@ -1,5 +1,6 @@
 [package]
 name = "athtool"
+description = "command-line totp generator"
 version = "0.1.0"
 authors = ["Ning Sun <sunng@about.me>"]
 license = "MIT/Apache-2.0"
