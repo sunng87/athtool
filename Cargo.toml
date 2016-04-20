@@ -1,0 +1,13 @@
+[package]
+name = "athtool"
+version = "0.1.0"
+authors = ["Ning Sun <sunng@about.me>"]
+license = "MIT/Apache-2.0"
+keywords = ["totp", "authenticator", "2fa"]
+repository = "https://github.com/sunng87/athtool"
+
+[dependencies]
+clap = "2.1.2"
+oath = "0.1.4"
+base32 = "0.3.1"
+toml = {version = "0.1.27", default-features = false}
